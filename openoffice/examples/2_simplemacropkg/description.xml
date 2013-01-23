@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" 
+xmlns:d="http://openoffice.org/extensions/description/2006" 
+xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+<dependencies> 
+	<OpenOffice.org-minimal-version value="2.4" d:name="OpenOffice.org 2.4"/> 
+</dependencies> 
+
+<identifier value="es.neodoo.examples.packagedmacro" /> 
+<version value="0.1" />
+<display-name><name lang="en">Neodoo macros.</name></display-name>
+<publisher><name xlink:href="http://www.neodoo.es" lang="en">Neodoo Microsystems</name></publisher>
+
+</description> 

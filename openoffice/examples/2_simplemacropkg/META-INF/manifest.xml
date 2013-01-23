@@ -1,0 +1,3 @@
+<manifest:manifest>
+ <manifest:file-entry manifest:media-type="application/vnd.sun.star.framework-script" manifest:full-path="Scripts"/>
+</manifest:manifest> 
