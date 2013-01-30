@@ -1,0 +1,10 @@
+#include <com/sun/star/uno/XInterface.idl>
+
+module es { module neodoo { module libreoffice { module examples { module IVA {
+
+    interface XIVA
+    {
+      double IVA( [in] double precio);
+    };
+
+}; }; }; }; };
